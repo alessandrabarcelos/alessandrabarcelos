@@ -35,7 +35,7 @@
 <a href = "mailto:cmp.1a.alessandrabarceloseng.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div>
 
-
+<!--- Contador de quantidade de visitantes no perfil --->
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alessandrabarcelos}/count.svg" /></p> 
 <br>
