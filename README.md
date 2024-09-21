@@ -13,6 +13,15 @@
 
  ### Main skills:
 <div style="display: inline_block"><br>
+  <img align="center" alt="Alessandra-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Alessandra-Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Alessandra-R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg">
+  <img align="center" alt="Alessandra-R" height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datacamp.com%2Fpt%2Fblog%2Fall-about-power-bi&psig=AOvVaw0LPQlOdneacFpQRIeww_Bt&ust=1727042686016000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiok8OF1YgDFQAAAAAdAAAAABAE)">
+
+
+
+
+  
   <img align="center" alt="Nicolas-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Nicolas-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
   <img align="center" alt="Nicolas-Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
