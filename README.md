@@ -27,7 +27,7 @@
 </div>
 
 
-<!--- Links com todas as redes sociais (Instagram, LinkedIn e Twitter) --->
+<!--- Links com todas as redes sociais (Instagram, LinkedIn e Gmail) --->
 <div align="center"> 
   <br>
   <a href="https://www.instagram.com/alessandrabarcelos_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
