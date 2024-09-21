@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO;My+name+is+Alessandra+Barcelos;I'm+25+years+old;I+am+from+Brazil+(SP);I+am+Food+Engineering+specialized+in+Data+Analysis;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrNickouls2003&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFF00&text_color=FFFFFF&bg_color=0d1117" alt="Nicolas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNickouls2003&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alessandrabarcelos&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFF00&text_color=FFFFFF&bg_color=0d1117" alt="Alessandra github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrabarcelos&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
  ### Main skills:
