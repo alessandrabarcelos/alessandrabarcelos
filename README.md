@@ -22,3 +22,39 @@
  ### Studying in this moment:
   <img align="center" alt="Alessandra-R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg">
   <img align="center" alt="Alessandra-SAS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" >
+
+
+  
+          
+          
+          
+          
+  
+          
+  
+</div>
+
+
+
+<div align="center"> 
+<a href="https://www.instagram.com/alessandrabarcelos_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:cmp.1a.nicolasaugusto2003.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+ </div>
+
+
+
+
+
+
+         
+          
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MrNickouls2003}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
+  
