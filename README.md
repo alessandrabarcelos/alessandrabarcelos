@@ -1,10 +1,9 @@
-# alessandrabarcelos
 
 ### Hello, welcome to my space 👋
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=faecde&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO;My+name+is+Alessandra+Barcelos;I'm+25+years+old;I+am+from+Brazil+(SP);I+am+Food+Engineering+specialized+in+Data+Analysis;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO;My+name+is+Alessandra+Barcelos;I'm+25+years+old;I+am+from+Brazil+(SP);I'm+a+food+engineer+specialized+in+Data+Analysis;Welcome!+:%29)](https://git.io/typing-svg)
 
 <!--- GitStats --->
 <div align="center">  
@@ -17,13 +16,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Alessandra-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Alessandra-Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Alessandra-R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg">
-  <img align="center" alt="Alessandra-SAS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" >
+  <img align="center" alt="Alessandra-git" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"/>
   
 <!--- Estudando --->
  ### Studying in this moment:
-  <img align="center" alt="Alessandra-R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg">
-  <img align="center" alt="Alessandra-SAS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" >  
+  <img align="center" alt="Alessandra-R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg"> 
 </div>
 
 
